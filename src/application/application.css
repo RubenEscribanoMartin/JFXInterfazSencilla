@@ -1,0 +1,18 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.mybutton{
+	-fx-background-color: blue ;
+	-fx-border-color: blueviolet ;
+	-fx-text-fill: white;
+}
+
+.mytitle{
+	-fx-font-family: "Shadows Into Light";
+}
+
+.avatar{
+	object-fit:cover;
+	border-radius:50%;
+	width:150px;
+	height:150px;
+}
